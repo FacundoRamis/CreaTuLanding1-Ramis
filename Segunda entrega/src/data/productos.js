@@ -5,7 +5,7 @@ const productos = [
     precio: 1500,
     categoria: "anime",
     descripcion: "Llavero impreso en PLA estilo Naruto.",
-    imagen: "https://via.placeholder.com/150",
+    imagen: "https://pagina.com/150",
   },
   {
     id: "2",
@@ -13,7 +13,7 @@ const productos = [
     precio: 1700,
     categoria: "futbol",
     descripcion: "Llavero escudo River Plate 3D.",
-    imagen: "https://via.placeholder.com/150",
+    imagen: "https://pagina.com/150",
   },
   {
     id: "3",
@@ -21,7 +21,7 @@ const productos = [
     precio: 1800,
     categoria: "anime",
     descripcion: "Llavero de Pikachu con relieve.",
-    imagen: "https://via.placeholder.com/150",
+    imagen: "https://pagina.com/150",
   },
 ];
 
